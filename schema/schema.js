@@ -1,7 +1,5 @@
 const graphql = require('graphql');
 const axios = require('axios');
-const { response } = require('express');
-const res = require('express/lib/response');
 const {
   GraphQLObjectType,
   GraphQLInt,
